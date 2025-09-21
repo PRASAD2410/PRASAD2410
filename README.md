@@ -1,29 +1,20 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Prasad Arde
+<a href="https://www.linkedin.com/in/prasad-arde-421753292/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+I am an aspiring cybersecurity professional with a strong interest in digital forensics, penetration testing, and security automation. I enjoy solving Capture the Flag (CTF) challenges, building labs to practice real-world attack/defense scenarios, and developing small security tools.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+## 🎯 Objective
+My goal is to start my career as a Tier 1 SOC Analyst and as a Penetration Tester and grow into a cybersecurity forensic investigator, focusing on threat detection, incident response, and secure system design.
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+## 🛠 Skills
+| Skill                  | Associated Project |
+|-------------------------|--------------------|
+| Ethical Hacking         | <a href="https://github.com/your-username/cookie-security-analyzer">Cookie Security Project</a> |
+| Penetration Testing     | <a href="https://github.com/your-username/cookie-security-analyzer">Cookie Security Project</a> |
+| Red Teaming             | <a href="https://github.com/your-username/cookie-security-analyzer">Cookie Security Project</a> |
+| Cookie Security Analysis| <a href="https://github.com/your-username/cookie-security-analyzer">Cookie Security Project</a> |
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## 🔧 Tools
 
 ### Network
 <div>
@@ -45,16 +36,20 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+### Burp
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp_Suite-FF5722?&style=for-the-badge&logo=portswigger&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+## 🎓 Certifications
+<div>
+
+<a href="https://certs.ine.com/07d120c0-dc06-4a29-bfb5-5c863ff74cdc#acc.m0J1cGDj"><img src="https://img.shields.io/badge/-eJPT-007ACC?&style=for-the-badge&logo=INE&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/-Ethical_Hacking_NPTEL-228B22?&style=for-the-badge&logoColor=white" />
+</div>
+
+## 🚀 Projects
+- [Cookie Security Analyzer (Python + Selenium)](https://github.com/your-username/cookie-security-analyzer)  
+- CTF Challenges (Exploiting EternalBlue, Reverse Shells, Hash Cracking)
+- [Calorie Tracker](https://github.com/PRASAD2410/calorie-tracker.git)
+
